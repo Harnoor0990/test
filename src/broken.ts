@@ -3,7 +3,7 @@
 const unusedVariable = 42; // This variable is declared but not used
 
 function greet(name) {
-	console.log("Hello, " + name);
+	console.log("Hi, " + name);
 } // Missing explicit return type and parameter type
 
 class Greeter {
